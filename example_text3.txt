@@ -1,0 +1,9 @@
+What's up? My name is Matthew Watson. I am 20 years old.
+
+Currently, I'm trying to build a GPT model, and I'm running into some rather annoying issues.
+
+For instance, it takes forever to build any AI on a personal computer. The more compute you have, the more capable you are to build AI models. And, given computers cost money, it seems I'm out of luck. I have very little money of present, which stinks.
+
+Nonetheless, perhaps I can find out new mathematics that will solve the high compute need of artificial intelligence. The human brain can learn very quickly and with very little power. Surely, if current AI training runs at the speed of electricity (which is much faster than the human brain), and yet still is outdone by the human brain concerning how fast we learn new concepts, there must be something off. And most likely, the problem is mathematics.
+
+So, somebody must find out the correct math. And that person will be me. Hopefully. :)
